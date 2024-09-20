@@ -3,14 +3,14 @@
 @tailwind components;
 @tailwind utilities;
 
-
+/* Font  */
 .poppins-regular {
   font-family: "Poppins", system-ui;
   font-weight: 400;
   font-style: normal;
 }
 
-/* From Uiverse.io by KSAplay */ 
+/* Loader css */
 .loader {
   display: flex;
   align-items: center;
